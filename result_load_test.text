@@ -1,0 +1,17 @@
+- 436/s # without log
+- 435/s # without log
+- 439/s # without log
+
+- 416/s # log without param interface
+- 407/s # log without param interface
+- 409/s # log without param interface
+
+
+- 413/s # log with param interface
+- 412/s # log with param interface
+- 409/s # log with param interface
+
+
+- 441/s # log with channel (async process)
+- 439/s # log with channel (async process)
+- 440/s # log with channel (async process)
